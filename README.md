@@ -52,6 +52,12 @@ poetry init
 poetry add notebook
 ```
 
+- Add TensorFlow as a dependency:
+
+```bash
+poetry add tensorflow
+```
+
 #### 2. Activate the Environment
 
 - Activate the virtual environment created by Poetry:
@@ -91,6 +97,7 @@ jupyter notebook
 
 - If you encounter issues with Jupyter Notebook not being recognized, ensure the Poetry environment is active (`poetry shell`).
 - To stop the server, press `Ctrl+C` in the terminal where the Jupyter server is running.
+- TensorFlow may require specific hardware or drivers for GPU support. Refer to the [official TensorFlow installation guide](https://www.tensorflow.org/install) if you are using a GPU.
 
 ## References
 
