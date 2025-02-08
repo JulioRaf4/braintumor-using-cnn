@@ -11,7 +11,7 @@ The dataset employed in this study is the [Brain Tumor MRI Dataset](https://www.
 - **Pituitary Tumor**
 - **No Tumor**
 
-For this project, a subset of the dataset was used, consisting of 200 images for each type of tumor. These were divided equally, with **100 images for training** and **100 images for testing**.
+For this project, a subset of the dataset was used, consisting of 200 images for each type of tumor in v1 results and 800 images in v2 results. These were divided equally, with **100 images for training** and **100 images for testing**.
 
 The complete dataset is available for download at the following link: [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset).
 
